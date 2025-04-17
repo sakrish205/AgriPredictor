@@ -1,0 +1,19 @@
+# Exclude compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Exclude model and data files
+*.pkl
+*.csv
+
+# Exclude URLs and images
+*.url
+*.jpg
+
+# Exclude Arduino build files
+*.ino.*
+
+# Exclude other unnecessary files
+.DS_Store
+Thumbs.db

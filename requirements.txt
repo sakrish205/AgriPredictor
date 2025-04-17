@@ -1,0 +1,7 @@
+# List of all Python packages used in the project
+flask
+numpy
+pandas
+scikit-learn
+matplotlib
+requests
